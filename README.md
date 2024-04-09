@@ -1,4 +1,4 @@
-# Expanding the toolbox of OBIS users
+# Expanding the toolbox for OBIS users
 
 This repository will be used to hold the discussions about developing new tools for OBIS data processing and analysis, as part of the [OBIS products infrastructure](https://github.com/iobis/obis-hub). This will involve:
 
